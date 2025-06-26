@@ -1,0 +1,40 @@
+Namelex é utilizada para gerar nomes criativos e únicos para diversas finalidades, como empresas, produtos ou domínios, auxiliando no processo de branding. 
+Timely é utilizada para auxiliar no gerenciamento do tempo, otimizando a produtividade e a organização de tarefas diárias e projetos, ideal para profissionais e equipes. 
+Astria é utilizada para geração de imagens personalizadas e sob medida, oferecendo um alto nível de customização para atender a necessidades específicas de design e arte. 
+Looka é utilizada para focar na criação de logotipos profissionais para sites e marcas, simplificando o processo de design para empresas e empreendedores. 
+Ludo AI é utilizada para criação de jogos, fornecendo recursos e ferramentas para desenvolvedores explorarem novas ideias e conceitos de games. 
+AI of the Day é utilizada para que diariamente apresenta e destaca novas ferramentas de inteligência artificial, mantendo os usuários atualizados sobre as inovações. 
+TLDV é utilizada para Oferecer a funcionalidade de resumir reuniões, extraindo os pontos-chave e as decisões importantes, economizando tempo e facilitando o acompanhamento. 
+Botify é utilizada para permitir a criação de humanos digitais para proporcionar conversas envolventes e interativas, útil para atendimento ao cliente e experiências virtuais. 
+Chatspot é um serviço de chatbot que oferece serviços de chatbot para empresas e pessoas que desejam oferecer serviços de chatbot.
+TweetMonk é utilizada para gerar tweets, auxiliando na criação de conteúdo conciso e impactante para mídias sociais. 
+Decktopus é utilizada para criar apresentações visualmente chamativas com o apoio da inteligência artificial, simplificando o design e a organização dos slides. 
+Ask Your PDF é utilizada para permitir interagir com qualquer arquivo PDF, fazendo perguntas e obtendo respostas diretas do conteúdo do documento. 
+Google Duplex é utilizada para conversar naturalmente por telefone, agendando compromissos e realizando outras tarefas. 
+Beautiful AI é utilizada para facilitar a criação de apresentações incríveis com design inteligente, garantindo layouts profissionais e impactantes de forma automatizada. 
+Engage AI é utilizada para ajudar a escrever comentários envolventes e relevantes no LinkedIn, aumentando o engajamento e a visibilidade na rede profissional. 
+Harvey AI é utilizada para atuar como um conselheiro legal baseado em inteligência artificial, oferecendo insights e suporte em questões jurídicas. 
+Motion AI é utilizada para construir chatbots personalizados em diversas plataformas, facilitando a interação e o atendimento automatizado ao usuário. 
+Suggesty AI é utilizada para oferecer respostas estilo humano, proporcionando interações mais naturais e empáticas em diversas aplicações. 
+MarcBot é utilizada para ser um assistente desenvolvido para o Telegram, automatizando tarefas e oferecendo funcionalidades dentro do aplicativo de mensagens. 
+Tweet Recorder é utilizada para auxiliar na escrita de "ganchos" para tweets, otimizando a criação de conteúdo para redes sociais. 
+Figma AI é utilizada para ser uma extensão ou funcionalidade que auxilia no design de websites, logotipos e aplicações, agilizando o fluxo de trabalho criativo. 
+Remove bg é utilizada para remover o fundo de qualquer imagem de forma rápida e eficiente, ideal para edições e composições visuais. 
+Hints AI é utilizada para atuar como um organizador digital pessoal para tarefas diárias, ajudando a gerenciar e priorizar atividades para aumentar a produtividade. 
+Rephrase AI é utilizada para converter textos comuns em vídeos envolventes e dinâmicos, adicionando um componente visual para a comunicação de conteúdo. 
+Magical AI é utilizada para automatizar tarefas repetitivas, permitindo economizar horas de trabalho e focar em atividades mais estratégicas. 
+Writesonic é utilizada para concentrar-se na produção de conteúdo escrito e visual, como artigos e anúncios, otimizando a criação e a qualidade. 
+Tome é utilizada para ajudar a criar storytelling impactante, transformando ideias em narrativas visuais e envolventes. 
+Mem AI é utilizada para ser um espaço de trabalho pessoal para organizar notas e ideias, funcionando como um centro de conhecimento para o usuário. 
+Perplexity AI é utilizada para ser uma extensão para Chrome que resume artigos online, destacando os pontos essenciais para uma leitura rápida e eficiente. 
+Simplified AI é utilizada para criação de conteúdo, englobando diversas funcionalidades para design e escrita em uma única plataforma. 
+Ellie AI é utilizada para ser um assistente de e-mail que auxilia na redação e gestão de mensagens, otimizando a comunicação por e-mail. 
+Stockimg AI é utilizada para otimizar a gestão de estoque, prevê futuras demandas e automatiza o reabastecimento, aprimorando a eficiência logística. 
+Blend AI é utilizada para automatizar o processo de solicitação de hipotecas e empréstimos, agilizando as operações financeiras. 
+Midjourney é utilizada para gerar imagens e ilustrações a partir de descrições textuais, transformando ideias em arte visual. 
+Boomy AI é utilizada para gerar música gratuitamente, permitindo que usuários criem composições originais. 
+Glean AI é utilizada para fazer perguntas e obter respostas como as de personalidades como Elon Musk, buscando informações de forma diferenciada. 
+AskHere é utilizada para conectar clientes com empresas para atendimento e suporte, facilitando a comunicação e a resolução de problemas. 
+Slides AI é utilizada para gerar uma variedade de slides para apresentações, auxiliando na criação de conteúdo visual de forma eficiente. 
+Castmagic é utilizada para multiplicar por 10 a criação de conteúdo para podcast, otimizando a produção e distribuição de áudios. 
+Wordtune AI é utilizada para resumir documentos e pontos-chave em segundos, facilitando a compreensão rápida de textos longos. 
